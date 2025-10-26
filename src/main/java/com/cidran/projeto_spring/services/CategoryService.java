@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.cidran.projeto_spring.entities.Category;
-import com.cidran.projeto_spring.entities.User;
 import com.cidran.projeto_spring.repositories.CategoryRepository;
 
 @Service
